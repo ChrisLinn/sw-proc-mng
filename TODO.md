@@ -1,6 +1,6 @@
 # TODO
 + week4 material
-+ w5
-+ w6
-+ w7
++ w5 (scrum)
++ w6 material
++ w7 rec
 + w8
