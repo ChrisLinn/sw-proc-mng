@@ -19,6 +19,9 @@
     + the Development Team
         * programming -- developing the software
 3. Describe the term burndown in the Scrum context.
+    + Burn Down show amount of work not done to track remaining effort
+        + Y-axis is the remaining Story Points
+        + X-axis is the elapsed time
 4. A life-cycle model in software engineering is a generic sequence of activities that can be used to achieve a goal. Discuss the main factors that should be taken into consideration when choosing a life-cycle model for a project.
 5. Inﬂuence and power are used by project managers to motivate people. Compare and contrast the role of inﬂuence and power in motivating people.
 6. Describe what risk is in the context of software engineering product development and brieﬂy describe the three key, iterative processes of risk management.
