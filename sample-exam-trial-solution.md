@@ -1,0 +1,22 @@
+# sample exam trial solution
+
+## Part A – Short Answer Questions
+1. What is the purpose of the Scrum Sprint Review, who is invited and when is it held during the Scrum life cycle?
+2. What are the roles in a Scrum Team? What are the responsibilities of each role?
+3. Describe the term burndown in the Scrum context.
+4. A life-cycle model in software engineering is a generic sequence of activities that can be used to achieve a goal. Discuss the main factors that should be taken into consideration when choosing a life-cycle model for a project.
+5. Inﬂuence and power are used by project managers to motivate people. Compare and contrast the role of inﬂuence and power in motivating people.
+6. Describe what risk is in the context of software engineering product development and brieﬂy describe the three key, iterative processes of risk management.
+7. Compare and contrast the ﬁelds of computer science and software engineering. What are their similarities and diﬀerences?
+8. agree or not and why
+    1. Proposition 1: The classical formal lifecycles of software engineering, such as the waterfall or increment models, are for stuﬀy old software engineering dinosaurs. The world has moved on, and agile practices are the only sensible way moving forward, because they focus on coding.
+    2. Proposition 2: In risk management, all we really need is an estimate of the probability of a risky event occurring. The impact is not relevant because a low probability event is not worth considering.
+    3. Proposition 3: The only technique really needed for requirements elicitation are interviews.
+
+
+## Part B – Long Answer Questions
+9. + PERT chart
+   + critical path
+10. Use Ejiogu’s six attributes to compare and contrast Cyclomatic complexity and function-point analysis
+11. Design a software development lifecycle model for a project. Justify your design with respect to 1. The key characteristics and goals for this project, and how your lifecycle models best ﬁts the goals of the project. 2. The processes you would put in place to achieve the goals of each phase of your chosen lifecycle process.
+12. What team structure would you use for the project? Justify your stance by arguing how your team structure suits the project goals, risks, and characteristics, and how it ﬁts within the lifecycle process.
