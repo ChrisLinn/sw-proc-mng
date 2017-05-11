@@ -69,6 +69,9 @@
                 - requires a lot of communications, not suitable when communications are inconvenient (e.g. under a global circumstance)
     2. Proposition 2: In risk management, all we really need is an estimate of the probability of a risky event occurring. The impact is not relevant because a low probability event is not worth considering.
         + disgree
+            * both probability of a risky event and its impact should be taken into consideration. In fact, there is a term called "risk exposure", which is equal to probability * impact
+            * an event with low probability but high impact may also need to be worried about
+            * an event with high probability but low impact may not need to be concerned with
     3. Proposition 3: The only technique really needed for requirements elicitation are interviews.
         + disgree
             * interviews is one form of requirement investigation, other form (e.g. survey) exists as well
