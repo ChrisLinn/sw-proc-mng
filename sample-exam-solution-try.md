@@ -1,4 +1,4 @@
-# sample exam solution try
+# Sample exam solution try
 
 ## Part A – Short Answer Questions
 1. __What is the purpose of the Scrum Sprint Review, who is invited and when is it held during the Scrum life cycle?__
@@ -33,7 +33,7 @@
     + three key iterative processes
         * ![risk-iterative-process](notes/pics/risk-iterative-process.png)
         * Risk Monitoring
-            - obeserving whether there could be a risk
+            - obeserving what is happening and when
         * Risk Assessment
             - identifying and analysing the risks to the project, and prioritising these risks based on our exposure to them.
         * Risk Control
@@ -68,7 +68,12 @@
                 - The customer is required to provide a representative to the project in a full-time role
                 - requires a lot of communications, not suitable when communications are inconvenient (e.g. under a global circumstance)
     2. Proposition 2: In risk management, all we really need is an estimate of the probability of a risky event occurring. The impact is not relevant because a low probability event is not worth considering.
+        + disgree
     3. Proposition 3: The only technique really needed for requirements elicitation are interviews.
+        + disgree
+            * interviews is one form of requirement investigation, other form (e.g. survey) exists as well
+            * after investigation, critical thinking and analysing are needed to reveal the real/specific requirement
+            * then need to confirm the requirements with the customers by requiremnt validation 
 
 
 ## Part B – Long Answer Questions
