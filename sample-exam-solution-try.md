@@ -31,7 +31,7 @@
 6. __Describe what risk is in the context of software engineering product development and briefly describe the three key iterative processes of risk management.__
     + A risk is a possible future event that has some expected impact.
     + three key iterative processes
-        * ![risk-iterative-process](notes/pics/risk-iterative-process.png)
+        * ![risk-iterative-process](pics/risk-iterative-process.png)
         * Risk Monitoring
             - obeserving what is happening and when
         * Risk Assessment
