@@ -1,5 +1,5 @@
-# SWEN90016 Software Processes and management
-Notes for SWEN90016. Strikethrough means unimportant (IMHO).
+# Notes for SWEN90016 Software Processes and management
+Strikethrough means unimportant (IMHO).
 
 ## done
 + W1
