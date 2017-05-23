@@ -8,10 +8,10 @@ Strikethrough means unimportant (IMHO).
 + W10
 
 ## todos
++ w11
 + refine W2
 + week4 notes
-+ w5 (scrum)
 + w6 notes
 + w8w9
-+ w11
++ w5 (scrum)
 + sample exam
