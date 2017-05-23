@@ -6,9 +6,9 @@ Strikethrough means unimportant (IMHO).
 + W3
 + W7
 + W10
++ w11
 
 ## todos
-+ w11
 + refine W2
 + week4 notes
 + w6 notes
