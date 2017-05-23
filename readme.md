@@ -4,7 +4,7 @@ Strikethrough means unimportant (IMHO).
 ## done
 + W1
 + W3
-+ w7
++ W7
 + W10
 
 ## todos
