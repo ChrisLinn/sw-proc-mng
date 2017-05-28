@@ -1,17 +1,17 @@
-# Notes for SWEN90016 Software Processes and management
+# SWEN90016 Software Processes and Management Notes Summary
 Strikethrough means unimportant (IMHO).
 
 ## done
 + W1
++ W2
 + W3
++ W4
++ W7
 + W10
++ w11
 
 ## todos
-+ refine W2
-+ week4 notes
-+ w5 (scrum)
 + w6 notes
-+ w7 recording
-+ w8w9
-+ w11
 + sample exam
++ w8w9
++ w5
